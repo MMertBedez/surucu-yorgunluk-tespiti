@@ -14,7 +14,7 @@ Bu proje, sürücülerin yorgunluk ve dikkat durumlarını gerçek zamanlı olar
 
 ## Gereksinimler
 
-- Python 3.7 veya üzeri
+- Python 3.10.0
 - Webcam
 - Ses çıkışı (uyarılar için)
 

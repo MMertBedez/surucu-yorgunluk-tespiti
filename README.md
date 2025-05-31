@@ -31,8 +31,12 @@ cd surucu-izleme-sistemi
 pip install -r requirements.txt
 ```
 
-3. Ses dosyasını ekleyin:
+3. Aşağıdaki Drive linkinden modeli indirip çalıştıracağınız python dosyayı ile aynı dizine yükleyin:
+   https://drive.google.com/file/d/1BkuZJfxNAEtxISvZiTTGC7oFMAxmoE9N/view?usp=sharing
+   
+5. Ses dosyasını ekleyin:
 - `warning.mp3` dosyasını projenin ana dizinine ekleyin
+
 
 ## Kullanım
 

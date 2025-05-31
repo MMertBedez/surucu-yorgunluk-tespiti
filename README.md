@@ -78,16 +78,7 @@ python driver_ui_kopya2.py
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request oluşturun
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
 ## İletişim
 
 Sorularınız veya önerileriniz için bir issue açabilirsiniz.
 
-## Teşekkürler
-
-- MediaPipe ekibine
-- GazeTracking kütüphanesi geliştiricilerine
-- TensorFlow ekibine 
